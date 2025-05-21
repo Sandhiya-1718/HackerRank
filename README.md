@@ -1,4 +1,4 @@
-# ☕ HackerRank Java Journey 🚀
+# HackerRank Java Journey 🚀
 
 Welcome to my **HackerRank** repository!  
 This is where I document my problem-solving journey using Java — a powerful, object-oriented programming language — by tackling coding challenges on HackerRank.
