@@ -9,9 +9,9 @@ This is where I document my problem-solving journey using **Java** — a powerfu
 
 | Level   | Branch Link                                                                 | Status        | Description                                                                 |
 |---------|------------------------------------------------------------------------------|----------------|-----------------------------------------------------------------------------|
-| Easy    | [Easy](https://github.com/Sandhiya-1718/HackerRank/tree/easy)     | ✅ Completed | Beginner-friendly Java problems, ideal for syntax and logic building.      |
-| Medium  | [Medium](https://github.com/Sandhiya-1718/HackerRank/tree/medium) | ⏳ Upcoming  | Intermediate-level problems to deepen understanding of Java and algorithms.|
-| Hard    | [Hard](https://github.com/Sandhiya-1718/HackerRank/tree/hard)     | ⏳ Upcoming  | Advanced problems for mastering Java, DS & algorithms.                     |
+| Easy    | [Easy](https://github.com/Sandhiya-1718/HackerRank/tree/easy)     | ✅ In Process | Beginner-friendly Java problems, ideal for syntax and logic building.      |
+| Medium  | [Medium](https://github.com/Sandhiya-1718/HackerRank/tree/medium) | ⏳ Upcoming   | Intermediate-level problems to deepen understanding of Java and algorithms.|
+| Hard    | [Hard](https://github.com/Sandhiya-1718/HackerRank/tree/hard)     | ⏳ Upcoming   | Advanced problems for mastering Java, DS & algorithms.                     |
 
 ---
 
