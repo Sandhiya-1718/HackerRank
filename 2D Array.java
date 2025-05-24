@@ -14,17 +14,15 @@ import static java.util.stream.Collectors.toList;
 public class Array2D {
     
     private static int printMaxSum(List<List<Integer>> matrix){
-        int ans=Integer.MIN_VALUE;
-        for(int i=0;i<=3;i++){
-            
-            List<Integer> row1 = matrix.get(i);
-            List<Integer> row2 = matrix.get(i+1);
-            List<Integer> row3 = matrix.get(i+2);
-            for(int j=0; j<=3;j++){
-                int sum=row1.get(j+0)+row1.get(j+1)+row1.get(j+2)
-                +row2.get(j+1)+row3.get(j+0)+row3.get(j+1)+row3.get(j+2);
-                if(sum>ans)
-                    ans=sum;
+       int ans=Integer.MIN_VALUE;
+        int rows = matrix.size();
+        int columns = matrix.get(0).size();
+        for(int i=0;i<=rows-3;i++)
+        {
+            for(int j=0;j<=columns-3;j++)
+            {
+                int sum = matrix.get(i).get(j)+matrix.get(i).get(j+1)+matrix.get(i).get(j+2)+matrix.get(i+1).get(j+1)+matrix.get(i+2).get(j)+matrix.get(i+2).get(j+1)+matrix.get(i+2).get(j+2);
+                ans = Math.max(ans,sum);
             }
         }
         return ans;
