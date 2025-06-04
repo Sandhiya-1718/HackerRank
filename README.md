@@ -48,3 +48,4 @@ This is where I document my problem-solving journey using **Java** — a powerfu
 29. [Java Hashset](https://github.com/Sandhiya-1718/HackerRank/blob/Easy/HashSet.java)
 30. [Java Generics](https://github.com/Sandhiya-1718/HackerRank/blob/Easy/Generics.java)
 31. [Java Sort](https://github.com/Sandhiya-1718/HackerRank/blob/Easy/Sort.java)
+32. [Java BitSet](https://github.com/Sandhiya-1718/HackerRank/blob/Easy/BitSet.java)
