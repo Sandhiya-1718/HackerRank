@@ -49,3 +49,8 @@ This is where I document my problem-solving journey using **Java** — a powerfu
 30. [Java Generics](https://github.com/Sandhiya-1718/HackerRank/blob/Easy/Generics.java)
 31. [Java Sort](https://github.com/Sandhiya-1718/HackerRank/blob/Easy/Sort.java)
 32. [Java BitSet](https://github.com/Sandhiya-1718/HackerRank/blob/Easy/BitSet.java)
+33. [Java Inheritance I](https://github.com/Sandhiya-1718/HackerRank/blob/Easy/Inheritance%201.java)
+34. [Java Inheritance II](https://github.com/Sandhiya-1718/HackerRank/blob/Easy/Inheritace%202.java)
+35. [Java Abstract Class](https://github.com/Sandhiya-1718/HackerRank/blob/Easy/Abstract%20Class.java)
+36. [Java Interface](https://github.com/Sandhiya-1718/HackerRank/blob/Easy/Interface.java)
+37. [Java Method Overriding](https://github.com/Sandhiya-1718/HackerRank/blob/Easy/Method%20Overriding%201.java)
