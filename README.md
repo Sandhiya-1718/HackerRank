@@ -15,7 +15,7 @@ This is where I document my problem-solving journey using **Java** — a powerfu
 
 ---
 
-## ✅ Completed Easy Challenges
+## Easy Challenges
 
 1. [Welcome to Java!](https://github.com/Sandhiya-1718/HackerRank/blob/Easy/Welcome%20to%20java.java)
 2. [Java Stdin and Stdout I](https://github.com/Sandhiya-1718/HackerRank/blob/Easy/Stdin%20and%20Stdout%201.java)
