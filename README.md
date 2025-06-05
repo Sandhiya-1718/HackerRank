@@ -54,5 +54,11 @@ This is where I document my problem-solving journey using **Java** — a powerfu
 35. [Java Abstract Class](https://github.com/Sandhiya-1718/HackerRank/blob/Easy/Abstract%20Class.java)
 36. [Java Interface](https://github.com/Sandhiya-1718/HackerRank/blob/Easy/Interface.java)
 37. [Java Method Overriding](https://github.com/Sandhiya-1718/HackerRank/blob/Easy/Method%20Overriding%201.java)
-38. [Java Instanceof keyword](https://github.com/Sandhiya-1718/HackerRank/blob/Easy/Instanceof%20Keyword.java)
-39. 
+38. [Java Method Overriding 2 (Super Keyword)](https://github.com/Sandhiya-1718/HackerRank/blob/Easy/Method%20Overriding%202.java)
+39. [Java Instanceof keyword](https://github.com/Sandhiya-1718/HackerRank/blob/Easy/Instanceof%20Keyword.java)
+40. [Java Iterator](https://github.com/Sandhiya-1718/HackerRank/blob/Easy/Iterator.java)
+41. [Java Exception Handling (Try-catch)](https://github.com/Sandhiya-1718/HackerRank/blob/Easy/Exception%20Handling(try-catch).java)
+42. [Java Exception Handling](https://github.com/Sandhiya-1718/HackerRank/blob/Easy/Exception%20Handling.java)
+43. [Java Varargs - Simple Addition](https://github.com/Sandhiya-1718/HackerRank/blob/Easy/Varargs-Simple%20Addition.java)
+44. [Java Reflection - Attributes](https://github.com/Sandhiya-1718/HackerRank/blob/Easy/Reflection-Attributes.java)
+45. [Java Factory Pattern]()
