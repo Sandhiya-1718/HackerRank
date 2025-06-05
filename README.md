@@ -64,3 +64,8 @@ This is where I document my problem-solving journey using **Java** — a powerfu
 45. [Java Factory Pattern](https://github.com/Sandhiya-1718/HackerRank/blob/Easy/Factory%20Pattern.java)
 46. [Java Singleton Pattern](https://github.com/Sandhiya-1718/HackerRank/blob/Easy/Singleton%20Pattern.java)
 47. [Covariant Return Types](https://github.com/Sandhiya-1718/HackerRank/blob/Easy/Covariant%20Return%20Types.java)
+
+---
+
+## Medium Challenges
+
