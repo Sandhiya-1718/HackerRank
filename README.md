@@ -61,4 +61,6 @@ This is where I document my problem-solving journey using **Java** — a powerfu
 42. [Java Exception Handling](https://github.com/Sandhiya-1718/HackerRank/blob/Easy/Exception%20Handling.java)
 43. [Java Varargs - Simple Addition](https://github.com/Sandhiya-1718/HackerRank/blob/Easy/Varargs-Simple%20Addition.java)
 44. [Java Reflection - Attributes](https://github.com/Sandhiya-1718/HackerRank/blob/Easy/Reflection-Attributes.java)
-45. [Java Factory Pattern]()
+45. [Java Factory Pattern](https://github.com/Sandhiya-1718/HackerRank/blob/Easy/Factory%20Pattern.java)
+46. [Java Singleton Pattern](https://github.com/Sandhiya-1718/HackerRank/blob/Easy/Singleton%20Pattern.java)
+47. [Covariant Return Types](https://github.com/Sandhiya-1718/HackerRank/blob/Easy/Covariant%20Return%20Types.java)
